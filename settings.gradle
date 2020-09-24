@@ -1,0 +1,3 @@
+include ':deviceInfoLib'
+include ':app'
+rootProject.name = "GenerateDeviceInfo"
